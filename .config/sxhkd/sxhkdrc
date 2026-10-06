@@ -1,0 +1,9 @@
+alt + Return
+	xterm
+
+alt + r
+	bspc wm -r
+
+# Application Launcher (Rofi)
+alt + d
+	rofi -show drun -show-icons
