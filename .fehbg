@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/data/data/com.termux/files/home/bspwm-dots/wallpaper/bgwf.jpg' 
